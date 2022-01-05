@@ -50,7 +50,7 @@
                                     </select>
                                   </div>
                                   <div class="col col-sm-2 mt-2 mb-2">
-                                    <button type="submit" class="btn btn-info">Tampilkan</button>
+                                    <button type="submit" class="btn btn-primary">Tampilkan</button>
                                   </div>
                               </div>
                             </div>
